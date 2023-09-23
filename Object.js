@@ -32,6 +32,6 @@ console.log("No.6-------------------------------------");
 //to insert a new key in an objest
 user.email = "agenious@gmail.com",
     console.log(user);
-console.log("No.7-------------------------------------");
+console.log("-------------------------------------");
 //concat topic is pending for dicussion
 //delete user.salary error to be clear.
