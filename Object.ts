@@ -12,9 +12,9 @@ office:{
 }
 }
 //to print all keys of an object
-console.log("No.1-------------------------------------");
+console.log("No.1--------------------------------------");
 console.log(user );
-console.log("No.2-------------------------------------");
+console.log("No.2--------------------------------------");
 //to print a specific key of an object
 console.log(user.age);
 console.log("No.3-------------------------------------");
@@ -31,7 +31,7 @@ console.log("No.6-------------------------------------");
 //to insert a new key in an objest
 user.email = "agenious@gmail.com",
 console.log(user);
-console.log("-------------------------------------");
+console.log("-----------------------------------------");
 
 //concat topic is pending for dicussion
 //delete user.salary error to be clear.
