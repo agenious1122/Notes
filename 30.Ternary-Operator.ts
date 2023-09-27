@@ -6,6 +6,5 @@ let userName:string = "Adnan"
 if (userName=="Adnan") {console.log(userName);} 
 else {console.log("invalid user");}  
 //now we done all this withTernary Operator
-userName=="Adnan"? console.log("You are logged in") 
-: console.log("Invalid User");
+userName=="Adnan"? console.log("You are logged in"):console.log("Invalid User");
 
